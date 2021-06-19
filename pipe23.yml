@@ -1,0 +1,7 @@
+node
+{
+stage
+{
+git 'https://github.com/SreelekhaThambi/Demo12.git'
+}
+}
