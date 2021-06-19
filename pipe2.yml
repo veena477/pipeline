@@ -1,0 +1,14 @@
+pipeline
+{
+agent any
+stages
+{
+stage('git')
+{
+steps
+{
+git 'https://github.com/SreelekhaThambi/Demo12.git'
+}
+}
+}
+}
